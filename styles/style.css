@@ -1,0 +1,151 @@
+
+  .banner{
+    display: flex;
+    background-color: #ebc7c7;
+    align-items: center;
+  }
+
+  .banner .sdiv{
+    margin: auto;
+    width: 300px;
+    height: 300px;
+    padding: 1px;
+    text-align: justify;
+    position:absolute;
+    
+    left: 20%;
+    top: 12%;
+  }
+  .banner .flowers{
+    width: 350px;
+    margin-bottom: 0;
+    margin-left: 65%;
+  }
+
+  
+.banner .sdiv .button{
+  background-color: #e4a0b1;
+        border: 0;
+        border-radius: 20%;
+        color: #fffeff;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 12px; 
+}
+
+.section-2{
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+.sec-4 {
+  text-align: center;
+  width: auto;
+  height: 400px;
+
+  
+}
+.f {
+  display: inline-block;
+  height:250px;
+  margin:10px;
+  width: 200px;
+  margin-top: 25px;
+  background-color: #e4a0b1;
+  border-top-left-radius: 100%;
+  border-top-right-radius: 100%;
+  background-color: #f1c5d0;
+  
+}
+
+.sec-4 .f .fl{
+  width: 130px;
+  height: 130px;
+  margin-top: 120px;
+}
+
+
+
+
+
+
+
+
+
+.section-4 {
+  background: #f6f5f7;
+  text-align: center;
+  width: auto;
+  height: 200px;
+
+  
+}
+.fig {
+  display: inline-block;
+  height:150px;
+  margin:10px;
+  width: 20%;
+  margin-top: 25px;
+  
+}
+
+
+
+
+
+.section-5 {
+  background: #f6f5f7;
+  text-align: center;
+  width: auto;
+  height: 300px;
+  
+  
+}
+.section-5 .div-5 {
+  display: inline-block;
+  height:150px;
+  margin:5px;
+  width: 300px;
+  margin-top: 25px;
+  text-align: justify;
+  
+  
+}
+
+.section-5 .fig .button{
+  background-color: #e4a0b1;
+  border-radius: 20px;
+  border: 0;
+}
+
+
+.section-6{
+  text-align: center;
+}
+
+
+.section-7 {
+ 
+  text-align: center;
+  width: auto;
+  height: 200px;
+
+  
+}
+.fig-7 {
+  display: inline-block;
+  height:200px;
+  margin:10px;
+  width:150px;
+  margin-top: 25px;
+  
+}
